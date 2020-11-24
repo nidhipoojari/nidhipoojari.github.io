@@ -1,0 +1,58 @@
+
+.title-text-first-part{
+	color:#27A365;
+}
+
+.title-icon{
+  width: 35px;
+  height: 35px; 
+  padding:1px;
+  margin-bottom:7px;
+  
+}
+
+.page-image-text{
+	margin-top:300px
+}
+
+
+.search {
+    width: 500px;
+    background-color: whitesmoke;
+    border-radius: 300px;
+    border: whitesmoke;
+   
+  }
+.createe {
+    font-size: 20px;
+}
+
+.jumbotron {
+    
+}
+.tabs {
+    color: gray;
+}
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.Share {
+    float: right;
+}
+.create-acc {
+    border-radius: 300px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding: 3px;
+  }
+  
+  .fa-google {
+      border-radius: 50%;
+      color: red;
+      padding: 3px;
+  }
